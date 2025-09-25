@@ -1,7 +1,7 @@
 from logic import *
 def mostrar_menu():
     print("\n" + "=" * 40)
-    print("    VETERINARIA MASCOTAS FELICES")
+    print("    VETERINARIA Esencia Vet")
     print("=" * 40)
     print("1. Ver veterinarios")
     print("2. Ver servicios")
